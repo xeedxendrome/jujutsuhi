@@ -11,7 +11,7 @@ My roll no is 210106067
 
 being a foodie, "sometimes i get stuck in nested loop of choosing whether to go out in the day and eat, or continue to code
 in my cave .
-misgynosit
+opensource provides the opportuntity to work on new and interesting project and contribute to the developer society as well as learn some new skills along  the way
 
 
 
